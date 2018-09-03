@@ -3,7 +3,6 @@ canine
 wolf
 bark
 bow wow
-arf
 pikachu
 charmander
 squirtle
@@ -14,3 +13,4 @@ ivysaur
 venasaur
 wartortle
 blastoise
+lasapso
